@@ -215,7 +215,7 @@
 
 @keyframes background-fade-highlight {
   0% {
-    background-color: lighten($tertiary, 50%);
+    background-color: lighten($tertiary, 40%);
   }
   100% {
     background-color: var(--material-lighter-secondary);
